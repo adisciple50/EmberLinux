@@ -26,7 +26,7 @@ Use python3 as much as possible! its not just a syntax change, its a performance
 
 ##Objectives##
 
--Expand functionality for cairo dock - make as much as possible done by the dock. NOTE: this could make and excellent landscape style smartwatch port. (unplanned)
+- Expand functionality for cairo dock - make as much as possible done by the dock. NOTE: this could make and excellent landscape style smartwatch port. (unplanned)
 
--Go absolutely mad with theming  for emerald and cairo-dock! the results of this should be usuable by any distro 
+- Go absolutely mad with theming  for emerald and cairo-dock! the results of this should be usuable by any distro 
 
