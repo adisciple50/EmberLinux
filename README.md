@@ -4,6 +4,7 @@
 A Compiz Standalone Gentoo Mix
 
 Target user: Debian Intermediate - ANY Arch User - Gentoo Beginner.
+
 Used As: Desktop/Laptop Home Computer - By Speed Freaks using the afforementioned form factors.
 
 
