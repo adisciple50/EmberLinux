@@ -13,9 +13,9 @@ Currently Moonlighting - A General Purpose Install Script
 ##Aims##
 
 Everything Should Be Compiled for YOUR System
--this should be done using MARCH=native -O2 and the "localyesconfig" make target for the kernel - since the gentoo install images usually load everything needed.
+- this should be done using MARCH=native -O2 and the "localyesconfig" make target for the kernel - since the gentoo install images usually load everything needed.
 
--Compile times are expected to be long, but good things come to those who wait.
+- Compile times are expected to be long, but good things come to those who wait.
 
 Favour Desktop Environment Independant Software In The Core Build
 
