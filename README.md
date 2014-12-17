@@ -1,4 +1,4 @@
-#EmberLinux#
+#Ember Linux#
 ==========
 
 A Compiz Standalone Gentoo Mix
